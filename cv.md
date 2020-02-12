@@ -57,8 +57,4 @@ Specialization: Economist
 2005 - 2008 – [Minsk State Trade College](http://www.mgtk.by/)
 Specialization: Accounter
 
-## Hobbies and Interests
-
-I keen books.
-
 ## References are available on request
