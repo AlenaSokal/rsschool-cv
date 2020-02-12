@@ -8,7 +8,7 @@ GitHub:  [alenasokal](https://github.com/alenasokal)
 
 ## Summary
 
-I am a Junior Developer, who is looking for a job as a Front-end JavaScript Developer.
+I am a Junior Developer, who is looking for a job as a Front-end JavaScript Developer. My previous experience as a specialist of marketing (CEO, SMM) give my an opportunities to make pretty good web-pages, to fill it useful and up-to-date contents and to design friendly interface. Moreover, I am continiously work with a lot of count data, what helps me to focus on important information.
 
 ## Key skills
 
