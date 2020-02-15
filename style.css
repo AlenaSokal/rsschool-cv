@@ -1,0 +1,30 @@
+
+span {
+    font-size: 26px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+body {
+    margin: auto;
+    max-width: 1024px;
+}
+
+h1 {
+    font-weight: bold; 
+    line-height: normal;
+  }
+
+.time {
+    font-style: oblique;
+}
+
+.photo-profile {
+    float: right;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.contacts-name {
+    padding-top: 60px;
+}
